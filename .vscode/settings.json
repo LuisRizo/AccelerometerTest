@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true, // THIS WILL TRIGGER PRETTIER ON SAVE
+  "prettier.eslintIntegration": true, // THIS WILL MAKE IT COMMUNICATE WITH ESLINT
+  "javascript.format.enable": false,
+  "flow.useNPMPackagedFlow": true,
+  "editor.tabSize": 4,
+  "eslint.enable": true,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "flow.pathToFlow": "${workspaceRoot}/node_modules/.bin/flow",
+  "javascript.validate.enable": false
+}
